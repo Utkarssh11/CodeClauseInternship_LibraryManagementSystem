@@ -1,6 +1,7 @@
 # Integrated-Lib# Integrated Library System (ILS)
 
 ## Introduction
+![Screenshot](https://github.com/Utkarssh11/Integrated-Library-System-ILS-/blob/main/Screenshot%20(328).png?raw=true)
 
 The Integrated Library System (ILS) is a Java Swing-based application that provides a comprehensive solution for managing library operations. This system allows librarians to efficiently handle tasks such as book cataloging, lending, returning, and tracking library resources. With an intuitive graphical user interface (GUI) and a range of features, the ILS simplifies library management and enhances user experience.
 
