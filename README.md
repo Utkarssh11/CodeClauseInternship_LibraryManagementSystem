@@ -1,5 +1,7 @@
 # Lib# Library-management-system--LMS
 
+This repository contains the project files developed during my internship at CodeClause.
+
 ## Introduction
 ![Screenshot](https://github.com/Utkarssh11/Integrated-Library-System-ILS-/blob/main/Screenshot%20(328).png?raw=true)
 
