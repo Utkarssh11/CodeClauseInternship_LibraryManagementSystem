@@ -1,13 +1,13 @@
-# Integrated-Lib# Integrated Library System (ILS)
+# Lib# Library-management-system--LMS
 
 ## Introduction
 ![Screenshot](https://github.com/Utkarssh11/Integrated-Library-System-ILS-/blob/main/Screenshot%20(328).png?raw=true)
 
-The Integrated Library System (ILS) is a Java Swing-based application that provides a comprehensive solution for managing library operations. This system allows librarians to efficiently handle tasks such as book cataloging, lending, returning, and tracking library resources. With an intuitive graphical user interface (GUI) and a range of features, the ILS simplifies library management and enhances user experience.
+The Library-management-system--LMS is a Java Swing-based application that provides a comprehensive solution for managing library operations. This system allows librarians to efficiently handle tasks such as book cataloging, lending, returning, and tracking library resources. With an intuitive graphical user interface (GUI) and a range of features, the ILS simplifies library management and enhances user experience.
 
 ## Features
 
-The Integrated Library System (ILS) offers the following key features:
+The Library System offers the following key features:
 
 - Book Cataloging: Add, update, and search book records with ease. Capture essential details like title, author, publication date, ISBN, and more.
 
@@ -21,7 +21,7 @@ The Integrated Library System (ILS) offers the following key features:
 
 ## Getting Started
 
-To set up the Integrated Library System (ILS) on your local machine, follow these steps:
+To set up the Library System  on your local machine, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Utkarssh11/integrated-library-system.git`
 
@@ -35,7 +35,7 @@ To set up the Integrated Library System (ILS) on your local machine, follow thes
 
 ## Technologies Used
 
-The Integrated Library System (ILS) is built using the following technologies:
+The Library System  is built using the following technologies:
 
 - Java: The core programming language used for the system's logic and functionality.
 
@@ -43,5 +43,5 @@ The Integrated Library System (ILS) is built using the following technologies:
 
 ## Contributing
 
-Contributions to the Integrated Library System (ILS) project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+Contributions to the  Library System project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
